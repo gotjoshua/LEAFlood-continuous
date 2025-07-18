@@ -82,12 +82,19 @@ Other relevant functions are:
 The `__main__` section of [LEAFlood.py](LEAFlood.py) includes a minimal example that utilises both the function just described and the sample files.
 
 ## Publications
-Camarena, K.; Wübbelmann, T; Förster, K. 2022: What is the contribution of urban trees to mitigate pluvial flooding? *Hydrology*, Submitted.
+Camarena, K.S.M., Wübbelmann, T, Förster, K. 2022: What is the contribution of urban trees to mitigate pluvial flooding? *Hydrology*, 9, 15. [https://doi.org/10.3390/hydrology9060108](https://doi.org/10.3390/hydrology9060108).
+
+Wübbelmann, T., Bouwer, L., Förster, K., Bender, S., Burkhard, B., 2022. Urban ecosystems and heavy rainfall – A Flood Regulating Ecosystem Service modelling approach for extreme events on the local scale. *One Ecosystem* 7, e87458. [https://doi.org/10.3897/oneeco.7.e87458](https://doi.org/10.3897/oneeco.7.e87458)
+
+Wübbelmann, T., Förster, K., 2022. LEAFlood - Landscape and vEgetAtion-dependent Flood model (Version 1). [https://doi.org/10.5281/ZENODO.6594181](https://doi.org/10.5281/ZENODO.6594181)
+
+Wübbelmann, T., Förster, K., Bouwer, L.M., Dworczyk, C., Bender, S., Burkhard, B., 2023. Urban flood regulating ecosystem services under climate change: how can Nature-based Solutions contribute? *Frontiers in Water* 5, 1081850. [https://doi.org/10.3389/frwa.2023.1081850](https://doi.org/10.3389/frwa.2023.1081850)
+
 
 ## CMF Publications
 
-Kraft, P.; Vaché, K. B.; Frede, H.-G.; Breuer, L.: CMF: A Hydrological Programming Language Extension For Integrated Catchment Models, *Environmental Modelling & Software*, 26(6), 828–830, [https://doi.org/10.1016/j.envsoft.2010.12.009](https://doi.org/10.1016/j.envsoft.2010.12.009), 2011.
+Kraft, P., Vaché, K. B., Frede, H.-G., Breuer, L., 2011: CMF: A Hydrological Programming Language Extension For Integrated Catchment Models, *Environmental Modelling & Software*, 26(6), 828–830, [https://doi.org/10.1016/j.envsoft.2010.12.009](https://doi.org/10.1016/j.envsoft.2010.12.009)
 
 Documentation: [https://philippkraft.github.io/cmf/](https://philippkraft.github.io/cmf/)
 
-Github: [https://github.com/philippkraft/cmf](https://https://github.com/philippkraft/cmf) 
+Github: [https://github.com/philippkraft/cmf](https://github.com/philippkraft/cmf) 
