@@ -1,0 +1,7 @@
+numpy
+pandas
+cmf
+shapely>=2.0
+pyshp
+matplotlib
+openpyxl

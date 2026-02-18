@@ -6,16 +6,19 @@ build-backend = "setuptools.build_meta"
 name = "leaflood-continuous"
 version = "0.1.0"
 description = ""
-readme = "README.md"
+readme = "readme.md"
 requires-python = ">=3.8"
 dependencies = [
     "numpy",
     "pandas",
     "cmf",
-    "shapely==1.8.5",
+    "shapely>=2.0",
     "pyshp",
     "matplotlib",
     "openpyxl",
 ]
+
+[tool.setuptools]
+py-modules = ["LEAFlood"]
 
 [tool.uv]
